@@ -159,9 +159,9 @@
         (begin
             (export-as-ios-image inImage inDrawable inPath "iTunesArtwork@2x.png" 1024 1024)
             (export-as-ios-image inImage inDrawable inPath "iTunesArtwork.png" 512 512)
-            (export-as-ios-image inImage inDrawable inPath "Icon-40.png" 40 40)
-            (export-as-ios-image inImage inDrawable inPath "Icon-40@2x.png" 80 80)
-            (export-as-ios-image inImage inDrawable inPath "Icon-40@3x.png" 120 120)
+            (export-as-ios-image inImage inDrawable inPath "Icon-Small-40.png" 40 40)
+            (export-as-ios-image inImage inDrawable inPath "Icon-Small-40@2x.png" 80 80)
+            (export-as-ios-image inImage inDrawable inPath "Icon-Small-40@3x.png" 120 120)
             (export-as-ios-image inImage inDrawable inPath "Icon-Small@3x.png" 87 87)
             (export-as-ios-image inImage inDrawable inPath "Icon-Small@2x.png" 58 58)
             (export-as-ios-image inImage inDrawable inPath "Icon-Small.png" 29 29)))
